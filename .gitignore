@@ -36,3 +36,4 @@ vignettes/*.pdf
 rsconnect/
 *.pdf
 vegplot_code-dev/AC14_floristic_plots.csv
+vegplot_code-dev/Assignnewplots.R
