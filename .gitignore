@@ -37,3 +37,6 @@ rsconnect/
 *.pdf
 vegplot_code-dev/AC14_floristic_plots.csv
 vegplot_code-dev/Assignnewplots.R
+vegplot_code-dev/char_spp_top.csv
+vegplot_code-dev/char_spp_based_alloc_2359.zip
+vegplot_code-dev/char_spp_matched.csv
